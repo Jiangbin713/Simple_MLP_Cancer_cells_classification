@@ -1,0 +1,3 @@
+trainrp£º2420.170101s
+trainlm: 3388.125466s
+trainscg: 2542.774905s
